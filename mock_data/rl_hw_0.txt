@@ -1,0 +1,20 @@
+1. Description:
+   This lab focuses on learning the temporal difference (TD) learning algorithm by applying it to the 2048 game using an 𝑛-tuple network. Students are required to understand the concept of (before-)state and after-state, construct the 𝑛-tuple network, grasp the TD algorithm, and comprehend Q-learning network training.
+
+2. What could I learn?:
+   In this lab, you can learn how to apply TD(0) algorithm to solve the 2048 game, construct and design an 𝑛-tuple network, understand the mechanisms of temporal difference learning, and develop an understanding of Q-learning network training. This lab provides hands-on experience in reinforcement learning concepts and their practical implementation.
+
+3. Submission:
+   a. Where to submit: The homework should be submitted to https://e3.nycu.edu.tw/mod/assign/view.php?id=398348.
+   b. Deadline: The submission deadline is 10/1 (Sunday) at 23:59.
+   c. Submission format: Submit an experiment report in PDF format and the source code (excluding model weights) in a zip file named "RL_LAB1_StudentId_Name.zip." The report should include a plot showing scores of at least 100k training episodes, and there are bonus points for describing the implementation of the 𝑛-tuple network, explaining the TD(0) mechanism, and providing a detailed description of the implementation, including action selection and TD-backup diagram.
+   d. Score details:
+      - Report (20% + Bonus 20%):
+        - A plot showing scores (mean) of at least 100k training episodes (20%).
+        - Bonus points (20%) for:
+          - Describing the implementation and the usage of 𝑛-tuple network (5%).
+          - Explaining the mechanism of TD(0) (5%).
+          - Describing the implementation in detail, including action selection and TD-backup diagram (10%).
+      - Demo Performance (80%):
+        - Evaluated based on the 2048-tile win rate in 1000 games, ⌈winrate2048⌉ (60%).
+        - Questions (20%).

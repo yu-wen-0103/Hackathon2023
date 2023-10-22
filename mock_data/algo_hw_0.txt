@@ -1,0 +1,19 @@
+1. Description:
+   This homework assignment involves providing a proof of the Master Theorem, a mathematical theorem used in the analysis of algorithms. Students are required to submit handwritten work demonstrating their understanding of all three scenarios within the Master Theorem, specifically covering cases 1 to 3 in detail.
+
+2. What could I learn?:
+   From this homework, students can learn the following:
+   - Mastery of the Master Theorem, a key concept in algorithm analysis.
+   - How to apply the Master Theorem to analyze and determine the time complexity of algorithms.
+   - Developing clear and detailed mathematical proofs.
+
+3. Submission:
+   a. Where to submit: undefined.
+   b. Deadline: The submission deadline is 23:59 on October 11th.
+   c. Submission format: Students are required to submit clear photos or scans of their handwritten work as proof of the Master Theorem. Digital submissions are not specified, so handwritten work is likely expected.
+   d. Score details:
+      - Completing the proof for all three scenarios (cases 1 to 3) is essential.
+      - Avoiding the use of incorrect proofs, especially those found online, is highly recommended.
+      - Late submissions within the one-week grace period will receive a reduced score of 70% of the total score.
+
+This assignment provides a practical opportunity for students to reinforce their understanding of the Master Theorem and its application in algorithm analysis. It also encourages precision in mathematical proof writing.

@@ -1,0 +1,19 @@
+1. Description:
+   Assignment 1 requires students to compile the Linux kernel from source and add custom system calls. The assignment consists of two main tasks: compiling the Linux kernel and implementing two system calls, sys_hello and sys_revstr.
+
+2. What could I learn?:
+   From this assignment, students can learn the following:
+   - How to compile the Linux kernel from source.
+   - Implementing custom system calls in a Linux kernel.
+   - Using system call mechanisms to interact with the kernel.
+   - Modifying kernel sources and understanding their impact.
+   - Error handling and debugging in kernel programming.
+
+3. Submission:
+   a. Where to submit: The homework should be submitted to E3.
+   b. Deadline: The submission deadline is 10/31 at 23:59.
+   c. Submission format: Submit a single PDF file containing two parts: one for the kernel compilation and the other for the system call implementation. The file should be named <id>_hw1.pdf.
+   d. Score details:
+      - For the kernel compilation part (4 pts):
+      - For the system call part (3 pts for each system call):
+      - Bonus points (20%):

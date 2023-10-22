@@ -1,0 +1,28 @@
+1. Description:
+   Lab 2, "Deep Q-Network (DQN)," aims to introduce and implement the Deep Q-Network algorithm by solving the MsPacman-v5 environment. Students will work on constructing neural networks, selecting actions using epsilon-greedy, calculating loss functions, and updating behavior and target networks. They will also learn about the mechanisms of the behavior and target networks, as well as experience replay buffers. Common techniques in Atari environments, such as frame stacking and grayscale, are covered in this lab.
+
+2. What could I learn?:
+   In this lab, students can learn the following:
+   - Understanding the mechanisms of behavior and target networks.
+   - Understanding the mechanism of the experience replay buffer.
+   - How to construct and design neural networks.
+   - Implementation of the Deep Q-Network (DQN) algorithm.
+   - Action selection using epsilon-greedy.
+   - Constructing Q-values and target Q-values.
+   - Calculating loss functions and updating networks.
+   - Deep Q-learning mechanisms and techniques in Atari environments.
+
+3. Submission:
+   a. Where to submit: The homework should be submitted before the submission deadline.
+   b. Deadline: The submission deadline is 10/15 (Sunday) at 23:59.
+   c. Submission format: Submit an experiment report in PDF format and the source code (excluding model weights) in a zip file named "RL_LAB2_StudentId_Name.zip." The source code should be organized within a "src" directory.
+   d. Score details:
+      - Report (30% + Report Bonus 20%):
+        - Experimental Results (30%):
+          - Include a screenshot of Tensorboard training curve and testing results on DQN.
+        - Experimental Results and Discussion of Bonus Parts (20%):
+          - Include additional screenshots and discussions for bonus parts, such as Enduro-v5, DDQN, Dueling DQN, and DQN with parallelized rollout.
+      - Demo Performance (50%):
+        - Test your best model in one game, providing video evidence during testing.
+        - You can use a fixed random seed to reproduce your best game score.
+        - Video demonstration is essential during testing.
